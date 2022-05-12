@@ -20,7 +20,7 @@
 - 対応画像：.png、.jpg、.bmp  
 
 # 必要システム
-  1. Windows 10, Windows 11　32/64bit  
+  1. Windows 10/11 32/64bit  
   2. .NET Framework 4.8  
     必要に応じてインストールしてください。  
     https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48

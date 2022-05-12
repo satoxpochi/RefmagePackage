@@ -25,6 +25,10 @@
     必要に応じてインストールしてください。  
     https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48
 
+# 動作イメージ  
+![動作イメージ1](https://github.com/satoxpochi/RefmagePackage/blob/main/screenshot1.png)
+![動作イメージ2](https://github.com/satoxpochi/RefmagePackage/blob/main/screenshot2.png)
+
 # 更新履歴  
 ・2022-05-12 Ver.1.0  
 　- 新規リリース  
